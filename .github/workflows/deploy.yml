@@ -29,6 +29,6 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "claramateoo-kkkk-71"
+          project: "claramateoo-kkkk-56"
           entrypoint: "main.ts"
           root: "."
